@@ -13,8 +13,8 @@ cd auto_update_system
 ```
 mkdir relq_project
 cd relq_project
-touch auto_update.sh
-nano auto_update.sh
+touch auto_update_kali.sh
+nano auto_update_kali.sh
 
 ```
 
