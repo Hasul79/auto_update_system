@@ -4,7 +4,7 @@
 git clone  https://github.com/Hasul79/auto_update_system.git
 cd auto_update_system
 ```
-<h1>Now I will write how I created it</h1>
+<h1 style="font size:30px; text-align: center">Now I will write how I created it</h1>
 
 <h3>Create auto_update.sh file</h3>
 
