@@ -1,5 +1,9 @@
 # auto_update_system
 
+```
+git clone  https://github.com/Hasul79/auto_update_system.git
+cd auto_update_system
+```
 
 <h3>Create auto_update.sh file</h3>
 
