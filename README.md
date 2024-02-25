@@ -1,4 +1,4 @@
-# auto_update_system
+# Auto_update_system
 
 ```
 git clone  https://github.com/Hasul79/auto_update_system.git
