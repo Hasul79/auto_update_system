@@ -5,7 +5,9 @@
 
 
 ```
-mkdir auto_update.sh
+mkdir relq_project
+cd relq_project
+touch auto_update.sh
 nano auto_update.sh
 
 ```
