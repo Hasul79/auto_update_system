@@ -3,12 +3,7 @@
 
 <h3>Create auto_update.sh file</h3>
 
-```
-git clone https://github.com/Hasul79/Restaurant_Pizza_front 
-cd Restaurant_Pizza_front 
-npm install 
-npm start
-``` 
+
 ```
 mkdir auto_update.sh
 nano auto_update.sh
