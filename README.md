@@ -4,9 +4,8 @@
 git clone  https://github.com/Hasul79/auto_update_system.git
 cd auto_update_system
 ```
-<div style="font-size: 70px; text-align: center; letter-spacing: 3px;">
-  <h1>Now I will write how I created it</h1>
-</div>
+# <div style="font-size: 50px; text-align: center; letter-spacing: 3px;">Now I will write how I created it</div>
+
 
 
 <h3>Create auto_update.sh file</h3>
