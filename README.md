@@ -4,7 +4,7 @@
 git clone  https://github.com/Hasul79/auto_update_system.git
 cd auto_update_system
 ```
-<div style="font-size: 50px; text-align: center; letter-spacing: 3px; color: red">
+<div style="font-size: 50px; text-align: center; letter-spacing: 3px;">
   <h1>Now I will write how I created it</h1>
 </div>
 
