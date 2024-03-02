@@ -4,6 +4,13 @@
 git clone  https://github.com/Hasul79/auto_update_system.git
 cd auto_update_system
 ```
+<br/>
+
+
+![Actualizar_GNULinux_Terminal_apt-get](https://github.com/Hasul79/auto_update_system/assets/95657084/b8622259-7a76-4e37-a3cd-4a034212e265)
+
+<br/>
+
 # <p style="font-size: 40px; letter-spacing: 2px; color: orange;" align="center">Now I will write how I created it</p>
 
 
