@@ -3,6 +3,7 @@
 ```
 git clone  https://github.com/Hasul79/auto_update_system.git
 cd auto_update_system
+./update_.sh
 ```
 <br/>
 
